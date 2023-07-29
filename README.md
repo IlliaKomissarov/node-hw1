@@ -2,7 +2,7 @@ Node.js homework 1
 
 1. node index.js --action="list"
 
-![Screenshot](https://monosnap.com/file/2OxU7IepSFD1KxWqAjCiPxuXJG8lUc)
+![Screenshot](https://ibb.co/7jLxmsr)
 
 2. node index.js --action="get" --id=5
 
