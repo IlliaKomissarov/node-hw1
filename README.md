@@ -1,8 +1,8 @@
 Node.js homework 1
 
 1. node index.js --action="list"
-<img src="https://ibb.co/7jLxmsr" alt="list">
 
+https://ibb.co/7jLxmsr
 
 2. node index.js --action="get" --id=5
 
